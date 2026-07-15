@@ -41,7 +41,9 @@
 </p>
 
 ### Libraries
-- NumPy
+<p>
+<img src="https://skillicons.dev/icons?i=NumPy,Pandas"/>
+</p>
 
 ### Tools
 <p>
