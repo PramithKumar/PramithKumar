@@ -1,10 +1,11 @@
+
 # Hi 👋, I'm Pramith Kumar
 
 <div align="center">
 
-### 💻 Aspiring Software Engineer | Full-Stack Developer | CSE Student @ NMAMIT
+### 💻 Aspiring Software Engineer | AI Engineering Enthusiast | CSE Student @ NMAMIT
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;Python+Developer;Full-Stack+Web+Developer;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;AI+Engineering+Enthusiast;Python+Developer;Full-Stack+Web+Developer;Always+Learning+Something+New" />
 
 <p>
 <a href="https://github.com/PramithKumar"><img src="https://img.shields.io/github/followers/PramithKumar?style=for-the-badge&logo=github"></a>
@@ -19,10 +20,11 @@
 ## 🚀 About Me
 
 - 🎓 B.Tech Computer Science & Engineering student at **NMAM Institute of Technology (NMAMIT)**
-- 💻 Passionate about Software Engineering, Backend Development and Full-Stack Web Development
-- 🧩 Currently strengthening Data Structures & Algorithms with **Python**
-- 🌱 Learning **Flask**, REST APIs, Backend Development and AI fundamentals
-- 🎯 Preparing for Software Engineering placements
+- 💻 Passionate about Software Engineering, AI Engineering, and building practical software projects
+- 🧩 Strengthening Data Structures & Algorithms with **Python**
+- 🤖 Exploring **AI Engineering** and building a strong foundation in **AI & Machine Learning**
+- 🌱 Currently learning **Flask** and AI/ML fundamentals
+- 🎯 Preparing for Software Engineering placements while expanding my AI skill set
 
 ---
 
@@ -38,6 +40,9 @@
 <img src="https://skillicons.dev/icons?i=flask,nodejs,express"/>
 </p>
 
+### Libraries
+- NumPy
+
 ### Tools
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
@@ -50,21 +55,17 @@
 ### 🎉 Event Registration Portal
 **Repository:** `inspirante-pramith`
 
-A full-stack event registration portal built using **Flask** and **MySQL** with event registration, participant management and admin workflows.
-
----
+A full-stack event registration portal built using Flask and MySQL with event registration, participant management, and admin workflows.
 
 ### 🏥 Healthcare Monitoring System
 **Repository:** `intern`
 
-A healthcare monitoring web application developed using **Python (Flask)**, **HTML**, **CSS**, **JavaScript** and **MySQL**.
-
----
+A healthcare monitoring web application developed using Python (Flask), HTML, CSS, JavaScript, and MySQL.
 
 ### 🛒 E-Commerce Website *(Completed)*
 Repository coming soon.
 
-Built using **Node.js, Express.js, MySQL, HTML, CSS and JavaScript**.
+Built using Node.js, Express.js, MySQL, HTML, CSS, and JavaScript.
 
 ---
 
@@ -76,43 +77,23 @@ Built using **Node.js, Express.js, MySQL, HTML, CSS and JavaScript**.
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=PramithKumar&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PramithKumar&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=PramithKumar&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PramithKumar&theme=tokyo-night&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=PramithKumar&theme=tokyonight&no-frame=true&column=4"/>
-</p>
-
----
-
 ## 🌱 Currently Learning
 
 - Data Structures & Algorithms
 - Flask
 - REST APIs
-- Backend Development
-- AI Fundamentals
+- AI Engineering
+- AI & Machine Learning Fundamentals
 
 ---
 
 ## 🎯 Goals
 
 - 🚀 Solve 100+ LeetCode problems
+- 🤖 Build AI-powered applications
 - 🌐 Build more full-stack projects
-- ⚛️ Master AI engineering
-- ☁️ Learn ML
+- ⚛️ Learn React
+- ☁️ Learn cloud deployment
 - 💼 Secure a Software Engineering internship
 
 ---
