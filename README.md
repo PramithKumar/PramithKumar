@@ -1,16 +1,15 @@
-# Hi 👋, I'm Pramith Kumar
-
 <div align="center">
 
-### 💻 Aspiring Software Engineer | AI Engineering Enthusiast | CSE Student @ NMAMIT
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:3B82F6,100:7DD3FC&text=Pramith%20Kumar&fontColor=ffffff&fontSize=46&animation=twinkling&desc=Aspiring%20Software%20Engineer%20•%20AI%20Engineering%20Enthusiast&descAlignY=68"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;AI+Engineering+Enthusiast;Python+Developer;Full-Stack+Web+Developer;Always+Learning+Something+New" />
+# Hi 👋 I'm Pramith Kumar
 
-<p>
-<a href="https://github.com/PramithKumar"><img src="https://img.shields.io/github/followers/PramithKumar?style=for-the-badge&logo=github"></a>
-<a href="https://www.linkedin.com/in/pramith-kumar-74695a380"><img src="https://img.shields.io/badge/LinkedIn-Pramith%20Kumar-0A66C2?style=for-the-badge&logo=linkedin"></a>
+### 💻 Aspiring Software Engineer • AI Engineering Enthusiast • CSE Student @ NMAMIT
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=23&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+Practical+Software;Learning+AI+Engineering;DSA+with+Python;Always+Learning+Something+New"/>
+
 <img src="https://komarev.com/ghpvc/?username=PramithKumar&style=for-the-badge&color=3B82F6"/>
-</p>
+<img src="https://img.shields.io/github/followers/PramithKumar?style=for-the-badge&logo=github"/>
 
 </div>
 
@@ -18,76 +17,48 @@
 
 ## 🚀 About Me
 
-- 🎓 B.Tech Computer Science & Engineering student at **NMAM Institute of Technology (NMAMIT)**
-- 💻 Passionate about Software Engineering, AI Engineering, and building practical software projects
-- 🧩 Strengthening Data Structures & Algorithms with **Python**
-- 🤖 Exploring **AI Engineering** and building a strong foundation in **AI & Machine Learning**
-- 🌱 Currently exploring AI Engineering, AI & Machine Learning fundamentals, and strengthening my problem-solving skills with Python
-- 🎯 Preparing for Software Engineering placements while expanding my AI skill set
+- 🎓 B.Tech Computer Science & Engineering @ **NMAM Institute of Technology (NMAMIT)**
+- 🤖 Interested in **AI Engineering**, Software Engineering, and practical product development.
+- 🧩 Improving problem-solving through **Data Structures & Algorithms (Python)**.
+- 🌱 Currently learning **AI Engineering**, AI/ML fundamentals, Flask, REST APIs, and NumPy.
+- 💼 Preparing for software engineering placements while building real-world projects.
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
-<p><img src="https://skillicons.dev/icons?i=python,javascript,java,c,html,css,mysql"/></p>
+<p><img src="https://skillicons.dev/icons?i=python,js,java,c,html,css,mysql"/></p>
 
 ### Frameworks
 <p><img src="https://skillicons.dev/icons?i=flask,nodejs,express"/></p>
 
 ### Libraries
-
-- NumPy
-- Pandas
+`NumPy`
 
 ### Tools
 <p><img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/></p>
 
 ---
 
-## 📌 Featured Projects
+## 🌟 Featured Projects
 
-### 🎉 Event Registration Portal
-**Repository:** `inspirante-pramith`
+### 🎉 Event Registration Portal (`inspirante-pramith`)
+Full-stack event registration portal built with **Flask** and **MySQL**.
 
-A full-stack event registration portal built using Flask and MySQL.
+### 🏥 Healthcare Monitoring System (`intern`)
+Healthcare monitoring application built using **Python (Flask)**, **HTML**, **CSS**, **JavaScript**, and **MySQL**.
 
-### 🏥 Healthcare Monitoring System
-**Repository:** `intern`
-
-A healthcare monitoring web application built using Python (Flask), HTML, CSS, JavaScript and MySQL.
-
-### 🛒 E-Commerce Website *(Completed)*
-
-Repository coming soon.
+### 🛒 E-Commerce Website *(Repository Coming Soon)*
+Built with **Node.js**, **Express.js**, **MySQL**, **HTML**, **CSS**, and **JavaScript**.
 
 ---
 
 ## 🧩 Problem Solving
 
-- 💻 33+ LeetCode problems solved
-- 🐍 Primary language: Python
+- 🐍 33+ LeetCode problems solved in Python
 - 📚 Solutions synced automatically to GitHub
-
----
-
-## 🌱 Currently Learning
-
-- Data Structures & Algorithms
-- AI Engineering
-- AI & Machine Learning Fundamentals
-- REST APIs
-
----
-
-## 🎯 Goals
-
-- 🚀 Solve 100+ LeetCode problems
-- 🤖 Build AI-powered applications
-- 🌐 Build more full-stack projects
-- ⚛️ Learn React
-- ☁️ Learn cloud deployment
-- 💼 Secure a Software Engineering internship
+- 🎯 Goal: 100+ problems
 
 ---
 
@@ -102,17 +73,9 @@ Repository coming soon.
 <img src="https://streak-stats.demolab.com?user=PramithKumar&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-
-## 🏆 GitHub Trophies
-
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=PramithKumar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=PramithKumar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"/>
 </p>
-
----
-
-## 📈 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=PramithKumar&theme=tokyo-night&hide_border=true"/>
@@ -120,17 +83,28 @@ Repository coming soon.
 
 ---
 
+## 🌱 Currently Learning
+
+- AI Engineering
+- AI & Machine Learning Fundamentals
+- Data Structures & Algorithms
+- REST APIs
+
+---
+
 ## 🤝 Connect
 
-- GitHub: https://github.com/PramithKumar
-- LinkedIn: https://www.linkedin.com/in/pramith-kumar-74695a380
+<p>
+<a href="https://github.com/PramithKumar"><img src="https://skillicons.dev/icons?i=github" height="45"/></a>
+<a href="https://www.linkedin.com/in/pramith-kumar-74695a380"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
+</p>
 
 ---
 
 <div align="center">
 
-### *Consistency compounds. Every commit is a step forward.*
+> **"Consistency compounds. Every commit is a step toward becoming a better engineer."**
 
-⭐ Thanks for visiting my profile!
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:3B82F6,100:7DD3FC"/>
 
 </div>
