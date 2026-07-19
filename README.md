@@ -1,4 +1,3 @@
-
 # Hi 👋, I'm Pramith Kumar
 
 <div align="center">
@@ -23,7 +22,7 @@
 - 💻 Passionate about Software Engineering, AI Engineering, and building practical software projects
 - 🧩 Strengthening Data Structures & Algorithms with **Python**
 - 🤖 Exploring **AI Engineering** and building a strong foundation in **AI & Machine Learning**
-- 🌱 Currently learning **Flask** and AI/ML fundamentals
+- 🌱 Currently exploring AI Engineering, AI & Machine Learning fundamentals, and strengthening my problem-solving skills with Python
 - 🎯 Preparing for Software Engineering placements while expanding my AI skill set
 
 ---
@@ -31,22 +30,17 @@
 ## 🛠️ Tech Stack
 
 ### Languages
-<p>
-<img src="https://skillicons.dev/icons?i=python,javascript,java,c,html,css,mysql"/>
-</p>
+<p><img src="https://skillicons.dev/icons?i=python,javascript,java,c,html,css,mysql"/></p>
 
-### Backend
-<p>
-<img src="https://skillicons.dev/icons?i=flask,nodejs,express"/>
-</p>
+### Frameworks
+<p><img src="https://skillicons.dev/icons?i=flask,nodejs,express"/></p>
 
 ### Libraries
+
 - NumPy
 
 ### Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
-</p>
+<p><img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/></p>
 
 ---
 
@@ -55,17 +49,16 @@
 ### 🎉 Event Registration Portal
 **Repository:** `inspirante-pramith`
 
-A full-stack event registration portal built using Flask and MySQL with event registration, participant management, and admin workflows.
+A full-stack event registration portal built using Flask and MySQL.
 
 ### 🏥 Healthcare Monitoring System
 **Repository:** `intern`
 
-A healthcare monitoring web application developed using Python (Flask), HTML, CSS, JavaScript, and MySQL.
+A healthcare monitoring web application built using Python (Flask), HTML, CSS, JavaScript and MySQL.
 
 ### 🛒 E-Commerce Website *(Completed)*
-Repository coming soon.
 
-Built using Node.js, Express.js, MySQL, HTML, CSS, and JavaScript.
+Repository coming soon.
 
 ---
 
@@ -80,10 +73,9 @@ Built using Node.js, Express.js, MySQL, HTML, CSS, and JavaScript.
 ## 🌱 Currently Learning
 
 - Data Structures & Algorithms
-- Flask
-- REST APIs
 - AI Engineering
 - AI & Machine Learning Fundamentals
+- REST APIs
 
 ---
 
@@ -98,6 +90,35 @@ Built using Node.js, Express.js, MySQL, HTML, CSS, and JavaScript.
 
 ---
 
+## 📊 GitHub Analytics
+
+<p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=PramithKumar&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PramithKumar&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=PramithKumar&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=PramithKumar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PramithKumar&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
 ## 🤝 Connect
 
 - GitHub: https://github.com/PramithKumar
@@ -107,7 +128,7 @@ Built using Node.js, Express.js, MySQL, HTML, CSS, and JavaScript.
 
 <div align="center">
 
-### *"Consistency compounds. Every commit is a step forward."*
+### *Consistency compounds. Every commit is a step forward.*
 
 ⭐ Thanks for visiting my profile!
 
